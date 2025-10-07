@@ -1,6 +1,10 @@
 .Student {
   margin: 10px 0;
 }
+.Student button{
+  border-radius: 5px;
+  margin-left: 20px;
+}
 
 .--isDeleted {
   color: var(--color3);
